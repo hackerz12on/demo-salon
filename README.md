@@ -1,3 +1,3 @@
 # HEADER
 
-This is how I am learning to use github
+This is how I am learning to use Github
